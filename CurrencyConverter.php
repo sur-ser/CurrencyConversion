@@ -10,7 +10,7 @@ class CurrencyConverter implements ICurrencyConversion
 {
 
     /**
-     * Сервис осуществляющий операции над валютами
+     * РЎРµСЂРІРёСЃ РѕСЃСѓС‰РµСЃС‚РІР»СЏСЋС‰РёР№ РѕРїРµСЂР°С†РёРё РЅР°Рґ РІР°Р»СЋС‚Р°РјРё
      * @var ICurrencyConverterService
      */
     private $_service;
